@@ -49,12 +49,12 @@ python script.py
 
 This will:
 
-Fetch the historical accident data from the API.
-Process the data.
-Train the SARIMAX model on the data.
-Forecast future accident values for 2021.
-Evaluate the model's performance on test data.
-Save the trained model to a .pkl file for use in the Streamlit app.
+- Fetch the historical accident data from the API.
+- Process the data.
+- Train the SARIMAX model on the data.
+- Forecast future accident values for 2021.
+- Evaluate the model's performance on test data.
+- Save the trained model to a .pkl file for use in the Streamlit app.
 
 ### 2. Running the Streamlit App
 To run the Streamlit app (app.py), first ensure that sarimax_model.pkl is available in the same directory. Then, run the following command:
