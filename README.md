@@ -78,6 +78,6 @@ Month Input: A field to input the month (1-12).
 Get Prediction Button: Once you enter the year and month, click this button to get the forecasted value for that month.🎉
 
 
-Alternatively, have a look at the app here: [App](`https://accidentspredictionaichallenge-me5khw2rbrj2bfm2srhxa5.streamlit.app`)
+Alternatively, have a look at the app here: [Streamlit App](https://accidentspredictionaichallenge-me5khw2rbrj2bfm2srhxa5.streamlit.app)
 
 
