@@ -1,6 +1,7 @@
 # Accidents_Prediction_AI_Challenge
 # SARIMAX Accident Forecasting Application
-This repository features a forecasting application developed using SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors) to predict alcohol-related accidents in Munich over time. The data is sourced from the "Monatszahlen Verkehrsunfälle" dataset available on the München Open Data Portal.  
+This repository features a forecasting application developed using SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors) to predict alcohol-related accidents in Munich over time. The data is sourced from [Munich Open Data Portal](https://www.muenchen.de/open-data).
+  
 
 The main components are:
 1. **Data Collection**: The script fetches historical accident data from an API.
