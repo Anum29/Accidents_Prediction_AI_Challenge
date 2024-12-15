@@ -72,10 +72,10 @@ Get the forecasted value for that specific month and year based on the trained S
 
 ### 3. Streamlit Interface
 
-Title: The title of the application is "SARIMAX Prediction App".
-Year Input: A field to input the year (e.g., 2024).
-Month Input: A field to input the month (1-12).
-Get Prediction Button: Once you enter the year and month, click this button to get the forecasted value for that month.🎉
+- Title: The title of the application is "SARIMAX Prediction App".
+- Year Input: A field to input the year (e.g., 2024).
+- Month Input: A field to input the month (1-12).
+- Get Prediction Button: Once you enter the year and month, click this button to get the forecasted value for that month.🎉
 
 
 Alternatively, have a look at the app here: [Streamlit App](https://accidentspredictionaichallenge-me5khw2rbrj2bfm2srhxa5.streamlit.app)
