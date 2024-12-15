@@ -13,9 +13,6 @@ def get_prediction(year, month):
         date_str = f"{year}-{month:02d}"  # Format the date as YYYY-MM
         date_index = pd.to_datetime([date_str])  # Convert to datetime index
 
-        # If the model requires exogenous variables, include them here.
-        # For this example, we'll assume there are no exogenous variables.
-
         # Generate prediction
         forecast = model.get_prediction(start=date_index[0], end=date_index[0])
         prediction = forecast.predicted_mean.iloc[0]
